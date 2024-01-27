@@ -10,10 +10,10 @@ let reset = document.querySelector(".reset");
 
 //Getting random image
 var randamNumber = Math.floor((Math.random() * 6) + 1);
-var randomDiceImg = "images/" + "dice" + randamNumber + ".png";
+var randomDiceImg ="dice" + randamNumber + ".png";
 
 var randamNumber1 = Math.floor((Math.random() * 6) + 1);
-var randomDiceImg1 = "images/" + "dice" + randamNumber1 + ".png";
+var randomDiceImg1 ="dice" + randamNumber1 + ".png";
 
 
 
